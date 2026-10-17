@@ -1,0 +1,6 @@
+{
+  "name": "Pesona Wisata Kabupaten Wakatobi",
+  "description": "Platform resmi eksplorasi pariwisata modern Kabupaten Wakatobi - Cagar Biosfer Dunia UNESCO, surga karang dunia, dan pesona maritim Nusantara.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
